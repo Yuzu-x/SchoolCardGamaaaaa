@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 778d0b48d13af874191f2e74fd4bd2cf, type: 3}
+  m_Name: Noella
+  m_EditorClassIdentifier: 
+  cardType: {fileID: 11400000, guid: 1f14ab36bacc5954c8e540ec6c968a0c, type: 2}
+  cardName: Noella
+  cardAbility: The Lantern
+  cardTag: Mudian
+  cardCost: 6
+  cardAttack: 5
+  cardHealth: 11
+  cardArt: {fileID: 21300000, guid: 650e0875a1c74204499da921c61d1390, type: 3}
+  cardBack: {fileID: 21300000, guid: 13aebdc69f6e5ad4d9c3b25069ac6079, type: 3}
